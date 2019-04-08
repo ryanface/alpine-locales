@@ -2304,7 +2304,7 @@ msgid "Apr"
 msgstr "Abr"
 
 msgid "May"
-msgstr "Mai"
+msgstr "Maio"
 
 msgid "Jun"
 msgstr "Jun"

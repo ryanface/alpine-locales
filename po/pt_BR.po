@@ -90,9 +90,6 @@ msgstr "Mar"
 msgid "Apr"
 msgstr "Abr"
 
-msgid "May"
-msgstr "Mai"
-
 msgid "Jun"
 msgstr "Jun"
 
@@ -125,6 +122,9 @@ msgstr "Março"
 
 msgid "April"
 msgstr "Abril"
+
+msgid "May"
+msgstr "Maio"
 
 msgid "June"
 msgstr "Junho"
