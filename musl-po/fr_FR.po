@@ -460,7 +460,7 @@ msgid "Sun"
 msgstr "Dim"
 
 msgid "Mon"
-msgstr "Lun"
+msgstr "LunZZZZZ"
 
 msgid "Tue"
 msgstr "Mar"
