@@ -39,7 +39,7 @@ msgid "Sun"
 msgstr "Dim"
 
 msgid "Mon"
-msgstr "Lun"
+msgstr "LunXXXX"
 
 msgid "Tue"
 msgstr "Mar"
